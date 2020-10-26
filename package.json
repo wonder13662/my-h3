@@ -1,0 +1,22 @@
+{
+  "name": "my-h3",
+  "version": "1.0.0",
+  "description": "Playground for Uber H3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonder13662/my-h3.git"
+  },
+  "author": "Wonder Jung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wonder13662/my-h3/issues"
+  },
+  "homepage": "https://github.com/wonder13662/my-h3#readme",
+  "dependencies": {
+    "h3-js": "^3.7.0"
+  }
+}
